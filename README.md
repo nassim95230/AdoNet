@@ -22,3 +22,5 @@ Une méthode CompteOccurences(), elle nous permet de compter le nombre d'éléme
 Et une méthode appelée LeNomPatronymiqueCommencePar(), elle nous permet de récupérer les noms et prénoms des individus ayant un nom commençant par la chaîne de caractère passée en paramètre de la méthode.
 
 ![patronymique.png](https://image.noelshack.com/fichiers/2019/14/3/1554299552-patronymique.png)
+
+# Ce TP nous a permis de nous familiariser avec les notion d'accès à une base de donnée via un objet en C#
