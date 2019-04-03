@@ -23,4 +23,4 @@ Et une méthode appelée LeNomPatronymiqueCommencePar(), elle nous permet de ré
 
 ![patronymique.png](https://image.noelshack.com/fichiers/2019/14/3/1554299552-patronymique.png)
 
-# Ce TP nous a permis de nous familiariser avec les notion d'accès à une base de donnée via un objet en C#
+## Ce TP nous a permis de nous familiariser avec les notion d'accès à une base de donnée via un objet en C#
